@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C1_stackandqueue/Problem_07_SlidingWindowMaxArray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C4_recursionAndDP/Problem_02_MinPathSum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C8_arrayandmatrix/Problem_01_PrintMatrixSpiralOrder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter04/Daemon.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter04/DefaultThreadPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter04/Deprecated.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter04/Interrupted.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter04/MultiThread.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter04/Shutdown.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter04/ThreadPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter04/ThreadState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter06/ConcurrentPutHashMap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter06/CountTask.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter08/BankWaterService.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter08/CountDownLatchTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter08/CyclicBarrierTest.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter08/CyclicBarrierTest2.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter08/CyclicBarrierTest3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter08/ExchangerTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter08/JoinCountDownLatchTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GinkgoStack/P23_ArtConcurrentBook/chapter08/SemaphoreTest.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
