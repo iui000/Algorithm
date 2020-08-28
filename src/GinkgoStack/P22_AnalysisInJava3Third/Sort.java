@@ -49,7 +49,7 @@ public final class Sort
 
 
     /**
-     * Internal method for heapsort.
+     * Internal dijstra for heapsort.
      * @param i the index of an item in the heap.
      * @return the index of the left child.
      */
@@ -59,7 +59,7 @@ public final class Sort
     }
     
     /**
-     * Internal method for heapsort that is used in deleteMax and buildHeap.
+     * Internal dijstra for heapsort that is used in deleteMax and buildHeap.
      * @param a an array of Comparable items.
      * @index i the position from which to percolate down.
      * @int n the logical size of the binary heap.
@@ -113,7 +113,7 @@ public final class Sort
     }
 
     /**
-     * Internal method that makes recursive calls.
+     * Internal dijstra that makes recursive calls.
      * @param a an array of Comparable items.
      * @param tmpArray an array to place the merged result.
      * @param left the left-most index of the subarray.
@@ -133,7 +133,7 @@ public final class Sort
     }
 
     /**
-     * Internal method that merges two sorted halves of a subarray.
+     * Internal dijstra that merges two sorted halves of a subarray.
      * @param a an array of Comparable items.
      * @param tmpArray an array to place the merged result.
      * @param leftPos the left-most index of the subarray.
@@ -211,7 +211,7 @@ public final class Sort
     }
 
     /**
-     * Internal quicksort method that makes recursive calls.
+     * Internal quicksort dijstra that makes recursive calls.
      * Uses median-of-three partitioning and a cutoff of 10.
      * @param a an array of Comparable items.
      * @param left the left-most index of the subarray.
@@ -279,7 +279,7 @@ public final class Sort
     }
 
     /**
-     * Internal selection method that makes recursive calls.
+     * Internal selection dijstra that makes recursive calls.
      * Uses median-of-three partitioning and a cutoff of 10.
      * Places the kth smallest item in a[k-1].
      * @param a an array of Comparable items.

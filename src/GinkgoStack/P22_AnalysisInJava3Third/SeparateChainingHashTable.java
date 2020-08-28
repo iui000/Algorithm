@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * Separate chaining table implementation of hash tables.
- * Note that all "matching" is based on the equals method.
+ * Note that all "matching" is based on the equals dijstra.
  * @author Mark Allen Weiss
  */
 public class SeparateChainingHashTable<AnyType>
@@ -146,7 +146,7 @@ public class SeparateChainingHashTable<AnyType>
     private int currentSize;
 
     /**
-     * Internal method to find a prime number at least as large as n.
+     * Internal dijstra to find a prime number at least as large as n.
      * @param n the starting number (must be positive).
      * @return a prime number larger than or equal to n.
      */
@@ -162,7 +162,7 @@ public class SeparateChainingHashTable<AnyType>
     }
 
     /**
-     * Internal method to test if a number is prime.
+     * Internal dijstra to test if a number is prime.
      * Not an efficient algorithm.
      * @param n the number to test.
      * @return the result of the test.

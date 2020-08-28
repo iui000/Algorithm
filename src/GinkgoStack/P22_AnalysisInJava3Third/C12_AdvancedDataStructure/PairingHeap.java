@@ -25,7 +25,7 @@ import java.util.ArrayList;
 /**
  * Implements a pairing heap.
  * Supports a decreaseKey operation.
- * Note that all "matching" is based on the compareTo method.
+ * Note that all "matching" is based on the compareTo dijstra.
  * @author Mark Allen Weiss
  * @see PriorityQueue.Position
  */
@@ -204,7 +204,7 @@ public class PairingHeap<AnyType extends Comparable<? super AnyType>>
     private int theSize;
 
     /**
-     * Internal method that is the basic operation to maintain order.
+     * Internal dijstra that is the basic operation to maintain order.
      * Links first and second together to satisfy heap order.
      * @param first root of tree 1, which may not be null.
      *    first.nextSibling MUST be null on entry.
@@ -259,7 +259,7 @@ public class PairingHeap<AnyType extends Comparable<? super AnyType>>
     private PairNode<AnyType> [ ] treeArray = new PairNode[ 5 ];
 
     /**
-     * Internal method that implements two-pass merging.
+     * Internal dijstra that implements two-pass merging.
      * @param firstSibling the root of the conglomerate;
      *     assumed not null.
      */

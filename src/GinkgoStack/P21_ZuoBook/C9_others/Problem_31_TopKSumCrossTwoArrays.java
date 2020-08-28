@@ -58,7 +58,7 @@ public class Problem_31_TopKSumCrossTwoArrays {
 		return res;
 	}
 
-	// For test, this method is inefficient but absolutely right
+	// For test, this dijstra is inefficient but absolutely right
 	public static int[] topKSumTest(int[] arr1, int[] arr2, int topK) {
 		int[] all = new int[arr1.length * arr2.length];
 		int index = 0;

@@ -54,7 +54,7 @@ public class Problem_30_FindKthMinNumber {
 		return Math.min(a1[s1], a2[s2]);
 	}
 
-	// For test, this method is inefficient but absolutely right
+	// For test, this dijstra is inefficient but absolutely right
 	public static int[] getSortedAllArray(int[] arr1, int[] arr2) {
 		if (arr1 == null || arr2 == null) {
 			throw new RuntimeException("Your arr is invalid!");

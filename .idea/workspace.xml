@@ -4,7 +4,115 @@
     <bookmark url="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/DJ/MinValueAfterRemoveK.java" line="81" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="588f5665-5476-4fd6-8407-aeb58c936e24" name="Default Changelist" comment="" />
+    <list default="true" id="588f5665-5476-4fd6-8407-aeb58c936e24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P11_Tree/CountOfDifferentTree/CountOfDifferent3Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P11_Tree/CountOfDifferentTree/base2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/ShortedPath/Dijstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/LruCache/LRUCache2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/Problem_12_LFU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/Problem_13_RandomPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/Problem_14_UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P18_BackTracking/BackTrackingTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/JD/jdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Kuangshi/base1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/GrayCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/NumbersOfbit1Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/WeChatRedPacket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/KthSubstr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/KthSubstr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/KthSubstrQue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/PaintedWood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/PalindromeSegmentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/PalindromeSegmentationII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/base2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/alibaba/MaxXmultiY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P7_Search/BFStemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P7_Search/OpenLock752.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/P7_Search/TwoWayBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GinkgoStack/Temporary/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P0_Common/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P13_GraphTheory/GraphDijstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P13_GraphTheory/GraphDijstra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P21_ZuoBook/C2_listproblem/Problem_01_PrintCommonPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P21_ZuoBook/C2_listproblem/Problem_01_PrintCommonPart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/Background2020/SeeBuildings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/Background2020/StringDecode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/Background2020/intervalCoverage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/Background2020/intervalCoverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/Background2020/inversionPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/Background2020/minRestDays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/Background2020/minRestDays2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/Others/StringToInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/DeleteMinPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/MoveCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/PairsSmallestLargestDiff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/chun2018/MachinesPerformTasks$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/chun2018/MachinesPerformTasks$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/chun2018/MachinesPerformTasks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/chun2018/XiaoQDrawer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/chun2018/cardGames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/chun2018/chocolate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/chun2018/reverseArrAndSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/chun2018/songList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/qiu2017/GeohashEncode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/qiu2017/PrimePairSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/qiu2017/TaskSign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/P24_Enterprise/Tencent/qiu2017/WubiInputCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/Temporary/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/Temporary/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/Temporary/base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/Temporary/base1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/GinkgoStack/Temporary/base2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P0_Common/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P25_Common/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/GraphDijstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/GraphDijstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/LruCache/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/LruCache/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C2_listproblem/Problem_01_PrintCommonPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C2_listproblem/Problem_01_PrintCommonPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_03_FactorialProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_03_FactorialProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_11_LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_11_LRU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_23_SortedRatateArrayFindMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_23_SortedRatateArrayFindMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_28_MadianQuick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_28_MadianQuick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_29_FindUpMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_29_FindUpMedian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_30_FindKthMinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_30_FindKthMinNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_31_TopKSumCrossTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_31_TopKSumCrossTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/BinomialQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/BinomialQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C12_AdvancedDataStructure/PairingHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C12_AdvancedDataStructure/PairingHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C12_AdvancedDataStructure/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C12_AdvancedDataStructure/RedBlackTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C12_AdvancedDataStructure/SplayTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C12_AdvancedDataStructure/SplayTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C12_AdvancedDataStructure/Treap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C12_AdvancedDataStructure/Treap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C4_Tree/AvlTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C4_Tree/AvlTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C4_Tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C4_Tree/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C6_PriorityQueue_Heap/BinaryHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/C6_PriorityQueue_Heap/BinaryHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/CuckooHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/CuckooHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/CuckooHashTableClassic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/CuckooHashTableClassic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/LeftistHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/LeftistHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/QuadraticProbingHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/QuadraticProbingHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/SeparateChainingHashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/SeparateChainingHashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P22_AnalysisInJava3Third/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/SeeBuildings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SeeBuildings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/StringDecode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/StringDecode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/intervalCoverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/intervalCoverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/inversionPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/inversionPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/minRestDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/minRestDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/minRestDays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/minRestDays2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Others/StringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/StringToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/DeleteMinPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/DeleteMinPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/MoveCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/MoveCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/PairsSmallestLargestDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/PairsSmallestLargestDiff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/MachinesPerformTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/MachinesPerformTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/XiaoQDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/XiaoQDrawer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/cardGames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/cardGames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/chocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chocolate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/reverseArrAndSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/reverseArrAndSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/songList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/songList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/GeohashEncode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/GeohashEncode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/PrimePairSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/PrimePairSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/TaskSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/TaskSign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/WubiInputCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/WubiInputCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/P7_Search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/P7_Search/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/Temporary/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GinkgoStack/Temporary/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GinkgoStack/Temporary/base.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,59 +123,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/DeleteMinPalindrome.java">
+        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_29_FindUpMedian.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/MoveCharacter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/Problem_13_RandomPool.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/PairsSmallestLargestDiff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2397#2406#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/Problem_12_LFU.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P12_Math/Factorial/FactorialTrailingZeroes.java">
+        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/Problem_14_UnionFind.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="50" selection-start-line="50" selection-end-line="57" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/AiQiyi/base1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/AiQiyi/base2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,40 +154,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/bilibili/ValidParentheses.java">
+        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_01_Rand5ToRand7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="41" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_02_GCD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_03_FactorialProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_23_SortedRatateArrayFindMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_24_SortedRatateArrayFindNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/AiQiyi/ValidParentheses.java">
+        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/WordLadder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" selection-start-line="39" selection-end-line="41" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/Temporary/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="1425">
+              <caret line="98" column="25" lean-forward="true" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GinkgoStack/Temporary/base.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -139,6 +235,13 @@
       <find>旋转</find>
       <find>括号</find>
       <find>isVali</find>
+      <find>pa</find>
+      <find>最长回文</find>
+      <find>gcd</find>
+      <find>a/b</find>
+      <find>dij</find>
+      <find>LRU</find>
+      <find>pre</find>
     </findStrings>
     <replaceStrings>
       <replace>firstIndex</replace>
@@ -148,75 +251,78 @@
       <replace>int</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/EvaluateBooleanExpression.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/additionStringNumbers.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P2_StringProblem/FractionStringAdditionSubtraction.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/Search/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P18_Search/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P7_Search/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/base4.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/OuterLayersOfTree.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P11_Tree/OuterLayersOfTree.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/YuanFudao/OuterLayersOfTree.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/checkUserName.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/checkUserName.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/mostProfitableOrder.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/mostProfitableOrder.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/maxSumOfsubintervals.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/maxSumOfsubintervals.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/reverseArrAndSum.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/cardGames.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chocolate.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/chocolate.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/songList.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/songList.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/base.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/XiaoQDrawer.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/StringDecode.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/StringDecode.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SeeBuildings.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/SeeBuildings.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/inversionPair.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/minRestDays.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/minRestDays.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/intervalCoverage.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/WubiInputCode.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/Task.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/TaskSign.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/PrimePairSum.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/PrimePairSum.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/GeohashEncode.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/DeleteMinPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/MoveCharacter.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/PairsSmallestLargestDiff.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/bilibili/ValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/base3.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/Main.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/Main1.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/ValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/AiQiyi/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/base5.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P11_Tree/CountOfDifferentTree/CountOfDifferent3Tree.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P11_Tree/CountOfDifferentTree/base2.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Kuangshi/base1.java" />
         <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/base2.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/base.java" />
         <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/base1.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/AiQiyi/base1.java" />
-        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/AiQiyi/base2.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/alibaba/base.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/alibaba/MaxXmultiY.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/base1.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/StringToInteger.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/NumbersOfbit1Integer.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P7_Search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/GrayCode.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/WeChatRedPacket.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/KthSubstr.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/KthSubstrQue.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/PalindromeSegmentation.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/PalindromeSegmentationII.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/base4.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/PaintedWood.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/base2.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chocolate.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/intervalCoverage.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/inversionPair.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/minRestDays.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/JJJJJJ.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/GraphDijstra.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/kkkk.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/LeeDijstra.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/Dijstra.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/Dijstra.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/ShortedPath/Dijstra.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/Main.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P18_BackTracking/BackTrackingTemplate.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P7_Search/BFStemplate.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P7_Search/OpenLock752.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P7_Search/TwoWayBFS.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/fff.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/Temporary/Test.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/JD/jdd.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P25_Common/Base.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_11_LRU.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/LruCache/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/LruCache/LRUCache2.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_12_LFU.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/Problem_14_UnionFind.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_03_FactorialProblem.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_23_SortedRatateArrayFindMin.java" />
+        <option value="$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/WordLadder.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="917" />
-    <option name="y" value="207" />
-    <option name="width" value="1670" />
-    <option name="height" value="695" />
+    <option name="x" value="113" />
+    <option name="y" value="31" />
+    <option name="width" value="1483" />
+    <option name="height" value="963" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,6 +337,40 @@
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GinkgoStack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GinkgoStack" type="462c0819:PsiDirectoryNode" />
+              <item name="P9_Hash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GinkgoStack" type="462c0819:PsiDirectoryNode" />
+              <item name="P13_GraphTheory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GinkgoStack" type="462c0819:PsiDirectoryNode" />
+              <item name="P25_Common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GinkgoStack" type="462c0819:PsiDirectoryNode" />
+              <item name="Temporary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -238,13 +378,14 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598182652341" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598628903290" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exame" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -252,18 +393,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="GinkgoStack.P15_DesignDataStruct.LruCache" />
+      <recent name="GinkgoStack.P24_Enterprise.JD" />
+      <recent name="GinkgoStack.P24_Enterprise.Tencent" />
       <recent name="GinkgoStack.Temporary" />
       <recent name="GinkgoStack.P24_Enterprise.YuanFudao" />
-      <recent name="GinkgoStack.P13_GraphTheory.SpanningTree" />
-      <recent name="GinkgoStack.P16_UnionFindSet" />
-      <recent name="GinkgoStack.P22_AnalysisInJava3Third" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\LiYalin\ProjectCode\Algorithm\src\GinkgoStack\P15_DesignDataStruct" />
       <recent name="G:\LiYalin\ProjectCode\Algorithm\src\GinkgoStack\P22_AnalysisInJava3Third" />
       <recent name="G:\LiYalin\ProjectCode\Algorithm\src\GinkgoStack\Enterprise\Xiechen" />
       <recent name="G:\LiYalin\ProjectCode\Algorithm\src\GinkgoStack\MultiThreading" />
       <recent name="G:\LiYalin\ProjectCode\Algorithm\src\GinkgoStack\ClassicProblem" />
-      <recent name="G:\LiYalin\ProjectCode\Algorithm\src\GinkgoStack" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -278,13 +419,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValidParentheses">
-    <configuration name="OuterLayersOfTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P11_Tree.OuterLayersOfTree" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Dijstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P13_GraphTheory.ShortedPath.Dijstra" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GinkgoStack.P11_Tree.*" />
+          <option name="PATTERN" value="GinkgoStack.P13_GraphTheory.ShortedPath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,12 +433,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P24_Enterprise.AiQiyi.ValidParentheses" />
+    <configuration name="JJJJJJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GinkgoStack.Temporary.JJJJJJ" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GinkgoStack.P13_GraphTheory.ShortedPath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxXmultiY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P24_Enterprise.alibaba.MaxXmultiY" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GinkgoStack.P24_Enterprise.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeSegmentation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P24_Enterprise.Tencent.qiu2020.PalindromeSegmentation" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="GinkgoStack.P24_Enterprise.AiQiyi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GinkgoStack.Temporary.Test" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GinkgoStack.Temporary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,11 +486,24 @@
       </method>
     </configuration>
     <configuration name="base1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P24_Enterprise.AiQiyi.base1" />
+      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P24_Enterprise.Kuangshi.base1" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GinkgoStack.P24_Enterprise.AiQiyi.*" />
+          <option name="PATTERN" value="GinkgoStack.P11_Tree.CountOfDifferentTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="base1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GinkgoStack.Temporary.base1" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GinkgoStack.P24_Enterprise.alibaba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,63 +512,11 @@
       </method>
     </configuration>
     <configuration name="base2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P24_Enterprise.AiQiyi.base2" />
+      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P11_Tree.CountOfDifferentTree.base2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GinkgoStack.P24_Enterprise.AiQiyi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="base3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GinkgoStack.Temporary.base3" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GinkgoStack.P24_Enterprise.AiQiyi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="checkUserName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P24_Enterprise.MeiTuan.checkUserName" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GinkgoStack.P11_Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="maxSumOfsubintervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P24_Enterprise.MeiTuan.maxSumOfsubintervals" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GinkgoStack.P11_Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mostProfitableOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GinkgoStack.P24_Enterprise.MeiTuan.mostProfitableOrder" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GinkgoStack.P11_Tree.*" />
+          <option name="PATTERN" value="GinkgoStack.P11_Tree.CountOfDifferentTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,19 +525,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.base1" />
-      <item itemvalue="Application.base2" />
-      <item itemvalue="Application.base3" />
-      <item itemvalue="Application.OuterLayersOfTree" />
-      <item itemvalue="Application.ValidParentheses" />
+      <item itemvalue="Application.PalindromeSegmentation" />
+      <item itemvalue="Application.MaxXmultiY" />
+      <item itemvalue="Application.JJJJJJ" />
+      <item itemvalue="Application.LeeDijstra" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidParentheses" />
-        <item itemvalue="Application.base3" />
-        <item itemvalue="Application.base2" />
-        <item itemvalue="Application.base1" />
-        <item itemvalue="Application.OuterLayersOfTree" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.LeeDijstra" />
+        <item itemvalue="Application.JJJJJJ" />
+        <item itemvalue="Application.MaxXmultiY" />
+        <item itemvalue="Application.PalindromeSegmentation" />
       </list>
     </recent_temporary>
   </component>
@@ -448,17 +589,19 @@
       <workItem from="1597377545445" duration="655000" />
       <workItem from="1597390112376" duration="86470000" />
       <workItem from="1597907882049" duration="36605000" />
-      <workItem from="1597984540204" duration="72566000" />
+      <workItem from="1597984540204" duration="102669000" />
+      <workItem from="1598276053414" duration="36894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="764023000" />
+    <option name="totallyTimeSpent" value="831020000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="734" y="166" width="1336" height="556" extended-state="0" />
+    <frame x="91" y="25" width="1186" height="770" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29499218" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34397164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -466,9 +609,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32470587" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40941176" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5647059" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32288402" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29937303" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46238244" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -476,7 +619,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Run with VisualVM" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.2602546" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
@@ -516,283 +659,101 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/AiQiyi/base2.java</url>
-          <line>8</line>
+          <url>file://$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/ShortedPath/Dijstra.java</url>
+          <line>27</line>
           <properties />
-          <option name="timeStamp" value="28" />
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="find" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Pinduoduo/FlyingChess.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/base4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="188">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/calories.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/DiDi/SpiralFibArr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/GraphTopologic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/PacketIntervalGrouping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/OrderAllocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/TopologicaSort/MarsDictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="57" selection-start-line="57" selection-end-line="130" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/MarsDictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1239">
-          <caret line="123" column="5" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/StringMatchingWithWildcards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/EvaluateBooleanExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="96" column="13" lean-forward="true" selection-end-line="119" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P2_StringProblem/StringAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-321">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/additionStringNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P2_StringProblem/FractionStringAdditionSubtraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-441">
-          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P1_ArrayProblem/Permutation/NextPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P19_DivideAndConquer/kClosestPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P7_Search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-246">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P11_Tree/Traversal/LevelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="88" column="5" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P0_Common/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P11_Tree/OuterLayersOfTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/YuanFudao/OuterLayersOfTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="75" column="13" lean-forward="true" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P1_ArrayProblem/RotateArray/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/checkUserName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/mostProfitableOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/MeiTuan/maxSumOfsubintervals.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/PalindromeSegmentationII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1080#1081#0" expanded="true" />
-          </folding>
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/reverseArrAndSum.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/PaintedWood.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/cardGames.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        <state relative-caret-position="45">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/chocolate.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2020/base2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="8">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/songList.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="-285">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/MachinesPerformTasks.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/cardGames.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="188">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chun2018/XiaoQDrawer.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/chocolate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        <state relative-caret-position="233">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/StringDecode.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/DeleteMinPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/SeeBuildings.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/GeohashEncode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="-111">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/inversionPair.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/GrayCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="210">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/minRestDays.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/intervalCoverage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/minRestDays2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Background2020/intervalCoverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        <state relative-caret-position="540">
+          <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
           <folding>
             <element signature="e#1250#1251#0" expanded="true" />
             <element signature="e#1325#1326#0" expanded="true" />
@@ -800,118 +761,298 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/Others/StringToInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/inversionPair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="-501">
+          <caret line="97" column="12" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/WubiInputCode.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/MachinesPerformTasks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="80" column="20" lean-forward="true" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+        <state relative-caret-position="105">
+          <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/TaskSign.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/minRestDays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="113">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/PrimePairSum.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/MoveCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="128">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/qiu2017/GeohashEncode.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/NumbersOfbit1Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        <state relative-caret-position="258">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/DeleteMinPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P20_DynamicProgramming/LinearDP/knapsackProblem/MaxValueKnapsack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+        <state relative-caret-position="105">
+          <caret line="129" selection-start-line="129" selection-end-line="156" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/MoveCharacter.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/XiaoQDrawer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="281">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/SummerInternship2017/PairsSmallestLargestDiff.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/GraphDijstra.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/ShortedPath/Dijstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-619">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2397#2406#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P12_Math/Factorial/FactorialTrailingZeroes.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/Temporary/JJJJJJ.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="50" selection-start-line="50" selection-end-line="57" selection-end-column="5" />
+        <state relative-caret-position="11">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/Temporary/base.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/Tencent/PairsSmallestLargestDiff.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="-589">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2817">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P18_BackTracking/BackTrackingTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P11_Tree/MinDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P7_Search/BFStemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P7_Search/OpenLock752.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-477">
+          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P7_Search/TwoWayBFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GinkgoStack/Temporary/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="-60">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/bilibili/ValidParentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/Temporary/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="41" />
+        <state relative-caret-position="63">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/AiQiyi/base1.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/JD/jdd.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P25_Common/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="53" column="15" lean-forward="true" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/LruCache/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/LruCache/LRUCache2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1447">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_11_LRU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_12_LFU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="68" column="34" lean-forward="true" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_13_RandomPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_28_MadianQuick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="87" column="25" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_31_TopKSumCrossTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/AiQiyi/base2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P24_Enterprise/AiQiyi/ValidParentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_30_FindKthMinNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" selection-start-line="39" selection-end-line="41" selection-end-column="11" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_29_FindUpMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/Problem_13_RandomPool.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/Problem_12_LFU.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P15_DesignDataStruct/Problem_14_UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_01_Rand5ToRand7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_02_GCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_03_FactorialProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_23_SortedRatateArrayFindMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P21_ZuoBook/C9_others/Problem_24_SortedRatateArrayFindNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GinkgoStack/P13_GraphTheory/WordLadder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="98" column="25" lean-forward="true" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

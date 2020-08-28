@@ -73,7 +73,7 @@ public class Problem_28_MadianQuick {
 		return res;
 	}
 
-	// for test, this method is ineffective but absolutely right
+	// for test, this dijstra is ineffective but absolutely right
 	public static int getMedianOfArray(int[] arr) {
 		int[] newArr = Arrays.copyOf(arr, arr.length);
 		Arrays.sort(newArr);

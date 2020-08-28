@@ -11,7 +11,7 @@ public class Problem_01_PrintCommonPart {
 	}
 
 	public static void printCommonPart(Node head1, Node head2) {
-		System.out.print("P0_Common Part: ");
+		System.out.print("P25_Common Part: ");
 		while (head1 != null && head2 != null) {
 			if (head1.value < head2.value) {
 				head1 = head1.next;

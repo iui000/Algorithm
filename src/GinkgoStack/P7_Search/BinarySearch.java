@@ -4,13 +4,13 @@ public class BinarySearch {
 
 
     /**
-     * @Description: 找出第一个符合的下标
+     * @Description: 找出最左侧的下标
      */
     public static int searchFloor(int[] arr, int tar){
         int l = 0, r = arr.length - 1;
         while(l <= r){
             int mid = l + (r - l)/2;
-            if(arr[mid] >= tar)
+            if(arr[mid] >= tar)//关键
                 r = mid - 1;
             else
                 l = mid + 1;
@@ -29,7 +29,7 @@ public class BinarySearch {
         int l = 0, r = arr.length - 1;
         while(l <= r){
             int mid = l + (r - l)/2;
-            if(arr[mid] <= tar)
+            if(arr[mid] <= tar)//关键
                 l = mid + 1;
             else
                 r = mid - 1;

@@ -41,6 +41,7 @@ public class Problem_11_LRU {
 			if (this.tail == node) {
 				return;
 			}
+
 			if (this.head == node) {
 				this.head = node.next;
 				this.head.last = null;

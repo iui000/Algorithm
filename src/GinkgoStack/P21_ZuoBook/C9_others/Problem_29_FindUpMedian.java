@@ -33,7 +33,7 @@ public class Problem_29_FindUpMedian {
 		return Math.min(arr1[start1], arr2[start2]);
 	}
 
-	// For test, this method is inefficient but absolutely right
+	// For test, this dijstra is inefficient but absolutely right
 	public static int findForTest(int[] arr1, int[] arr2) {
 		if (arr1 == null || arr2 == null || arr1.length != arr2.length) {
 			throw new RuntimeException("Your arr is invalid!");

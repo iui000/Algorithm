@@ -1,5 +1,9 @@
 package GinkgoStack.P21_ZuoBook.C9_others;
 
+
+/***
+ * 有关阶乘的两个问题
+ */
 public class Problem_03_FactorialProblem {
 
 	public static int zeroNum1(int num) {

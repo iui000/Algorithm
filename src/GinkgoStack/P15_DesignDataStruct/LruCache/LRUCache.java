@@ -48,7 +48,10 @@ public class LRUCache {
         DLinkedNode prev;
         DLinkedNode next;
         public DLinkedNode() {}
-        public DLinkedNode(int theKey, int theValue) {key = theKey; value = theValue;}
+        public DLinkedNode(int theKey, int theValue) {
+            key = theKey;
+            value = theValue;
+        }
     }
 
     //hashMap当然还是要用封装好的,key是用户的key,value是存储的节点，用户的value存在该结点中

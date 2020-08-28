@@ -14,7 +14,7 @@ package GinkgoStack.P22_AnalysisInJava3Third;// com.GinkgoStack.LeftistHeap clas
 
 /**
  * Implements a leftist heap.
- * Note that all "matching" is based on the compareTo method.
+ * Note that all "matching" is based on the compareTo dijstra.
  * @author Mark Allen Weiss
  */
 public class LeftistHeap<AnyType extends Comparable<? super AnyType>>
@@ -42,7 +42,7 @@ public class LeftistHeap<AnyType extends Comparable<? super AnyType>>
     }
 
     /**
-     * Internal method to merge two roots.
+     * Internal dijstra to merge two roots.
      * Deals with deviant cases and calls recursive merge1.
      */
     private LeftistNode<AnyType> merge( LeftistNode<AnyType> h1, LeftistNode<AnyType> h2 )
@@ -58,7 +58,7 @@ public class LeftistHeap<AnyType extends Comparable<? super AnyType>>
     }
 
     /**
-     * Internal method to merge two roots.
+     * Internal dijstra to merge two roots.
      * Assumes trees are not empty, and h1's root contains smallest item.
      */
     private LeftistNode<AnyType> merge1( LeftistNode<AnyType> h1, LeftistNode<AnyType> h2 )

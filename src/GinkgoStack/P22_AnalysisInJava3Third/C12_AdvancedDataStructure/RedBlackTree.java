@@ -19,7 +19,7 @@ import GinkgoStack.P22_AnalysisInJava3Third.UnderflowException;
 
 /**
  * Implements a red-black tree.
- * Note that all "matching" is based on the compareTo method.
+ * Note that all "matching" is based on the compareTo dijstra.
  * @author Mark Allen Weiss
  */
 public class RedBlackTree<AnyType extends Comparable<? super AnyType>>
@@ -169,7 +169,7 @@ public class RedBlackTree<AnyType extends Comparable<? super AnyType>>
     }
     
     /**
-     * Internal method to print a subtree in sorted order.
+     * Internal dijstra to print a subtree in sorted order.
      * @param t the node that roots the subtree.
      */
     private void printTree( RedBlackNode<AnyType> t )

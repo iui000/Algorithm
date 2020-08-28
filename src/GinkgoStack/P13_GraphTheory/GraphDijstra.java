@@ -8,7 +8,7 @@ public class GraphDijstra {
 
     private int vertexSize;                 // 顶点数量
     private int[][] matrix;                 // 存放数据的二维数组
-    private static final int MAX_WEIGHT = 10000;    // 模拟代表无穷大
+    private static final int MAX_WEIGHT = Integer.MAX_VALUE;    // 模拟代表无穷大
     private boolean[] isVisited;            // 存放被访问的节点
 
 
@@ -29,9 +29,12 @@ public class GraphDijstra {
         int[] paths = new int[vertexSize];
 
         // 先将数组初始化
-        System.arraycopy(matrix[0], 0, paths, 0, vertexSize);
+        System.arraycopy(matrix[0], 0,
+                paths, 0,
+                vertexSize);
 
         isVisited[0] = true;
+
         for (int i = 1; i < vertexSize; i++) {
 
             // 在已经存在的路径中找到一条未被访问且最短的路径

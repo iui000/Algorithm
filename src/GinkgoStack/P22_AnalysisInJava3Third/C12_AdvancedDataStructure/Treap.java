@@ -19,7 +19,7 @@ import GinkgoStack.P22_AnalysisInJava3Third.UnderflowException;
 
 /**
  * Implements a treap.
- * Note that all "matching" is based on the compareTo method.
+ * Note that all "matching" is based on the compareTo dijstra.
  * @author Mark Allen Weiss
  */
 public class Treap<AnyType extends Comparable<? super AnyType>>
@@ -139,7 +139,7 @@ public class Treap<AnyType extends Comparable<? super AnyType>>
     }
 
     /**
-     * Internal method to insert into a subtree.
+     * Internal dijstra to insert into a subtree.
      * @param x the item to insert.
      * @param t the node that roots the subtree.
      * @return the new root of the subtree.
@@ -169,7 +169,7 @@ public class Treap<AnyType extends Comparable<? super AnyType>>
     }
 
     /**
-     * Internal method to remove from a subtree.
+     * Internal dijstra to remove from a subtree.
      * @param x the item to remove.
      * @param t the node that roots the subtree.
      * @return the new root of the subtree.
@@ -202,7 +202,7 @@ public class Treap<AnyType extends Comparable<? super AnyType>>
     }
 
     /**
-     * Internal method to print a subtree in sorted order.
+     * Internal dijstra to print a subtree in sorted order.
      * @param t the node that roots the tree.
      */
     private void printTree( TreapNode<AnyType> t )

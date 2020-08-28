@@ -1,5 +1,9 @@
 package GinkgoStack.P21_ZuoBook.C9_others;
 
+
+/**
+ * 在有序旋转数组中找到最小值
+ */
 public class Problem_23_SortedRatateArrayFindMin {
 
 	public static int getMin(int[] arr) {
@@ -13,6 +17,7 @@ public class Problem_23_SortedRatateArrayFindMin {
 			if (arr[low] < arr[high]) {
 				return arr[low];
 			}
+
 			mid = (low + high) / 2;
 			if (arr[low] > arr[mid]) {
 				high = mid;

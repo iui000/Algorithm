@@ -14,7 +14,7 @@ package GinkgoStack.P22_AnalysisInJava3Third;// com.GinkgoStack.BinomialQueue cl
 
 /**
  * Implements a binomial queue.
- * Note that all "matching" is based on the compareTo method.
+ * Note that all "matching" is based on the compareTo dijstra.
  * @author Mark Allen Weiss
  */
 public final class BinomialQueue<AnyType extends Comparable<? super AnyType>>

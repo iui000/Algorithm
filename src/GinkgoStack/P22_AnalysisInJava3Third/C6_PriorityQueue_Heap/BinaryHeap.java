@@ -17,7 +17,7 @@ import GinkgoStack.P22_AnalysisInJava3Third.UnderflowException;
 
 /**
  * Implements a binary heap.
- * Note that all "matching" is based on the compareTo method.
+ * Note that all "matching" is based on the compareTo dijstra.
  * @author Mark Allen Weiss
  */
 public class BinaryHeap<AnyType extends Comparable<? super AnyType>>
@@ -152,7 +152,7 @@ public class BinaryHeap<AnyType extends Comparable<? super AnyType>>
     private AnyType [ ] array; // The heap array
 
     /**
-     * Internal method to percolate down in the heap.
+     * Internal dijstra to percolate down in the heap.
      * @param hole the index at which the percolate begins.下滤的起始位置
      *             空穴往下走
      */

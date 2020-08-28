@@ -234,7 +234,7 @@ public class CuckooHashTableClassic<AnyType>
     private int [ ] subTableStarts;
 
     /**
-     * Internal method to allocate array.
+     * Internal dijstra to allocate array.
      * @param arraySize the size of the array.
      */
     private void allocateArray( int arraySize )
@@ -243,7 +243,7 @@ public class CuckooHashTableClassic<AnyType>
     }
 
     /**
-     * Internal method to find a prime number at least as large as n.
+     * Internal dijstra to find a prime number at least as large as n.
      * @param n the starting number (must be positive).
      * @return a prime number larger than or equal to n.
      */
@@ -259,7 +259,7 @@ public class CuckooHashTableClassic<AnyType>
     }
 
     /**
-     * Internal method to test if a number is prime.
+     * Internal dijstra to test if a number is prime.
      * Not an efficient algorithm.
      * @param n the number to test.
      * @return the result of the test.
