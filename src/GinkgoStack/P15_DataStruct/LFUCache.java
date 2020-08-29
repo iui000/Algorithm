@@ -13,13 +13,36 @@ public class LFUCache {
         public Integer key;
         public Integer value;
         public Integer freq; // 这个节点发生get或者set的次数总和
-        public Node prev; // 节点之间是双向链表所以有上一个节点
+        public Node pre; // 节点之间是双向链表所以有上一个节点
         public Node next;// 节点之间是双向链表所以有下一个节点
 
         public Node(Integer key, Integer value, Integer freq) {
             this.key = key;
             this.value = value;
             this.freq = freq;
+        }
+    }
+
+    // 桶结构
+    public static class NodeList {
+        public Node HEAD; // 桶的头节点
+        public Node TAIL; // 桶的尾节点
+
+        public NodeList() {
+            HEAD = new Node(-1,-1,-1);
+            TAIL = new Node(-1,-1,-1);
+            HEAD.next = TAIL;
+            TAIL.pre = HEAD;
+        }
+
+
+        /**
+         * 删除节点
+         * @param node
+         */
+        private void removeNode(Node node) {
+            node.pre.next = node.next;
+            node.next.pre = node.pre;
         }
     }
 
@@ -97,6 +120,7 @@ public class LFUCache {
             freqMap.remove(node.freq);
             if (minFreq == node.freq) minFreq += 1;
         }else {
+            //这里可以用自己的链表来优化
             curList.remove(node);
         }
 
@@ -110,12 +134,5 @@ public class LFUCache {
 
 
 
-    /**
-     * 删除节点
-     * @param node
-     */
-    private void removeNode(Node node) {
-        node.prev.next = node.next;
-        node.next.prev = node.prev;
-    }
+
 }
