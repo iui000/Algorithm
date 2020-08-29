@@ -9,6 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * 10-21
+ * 利用Lock和Condition来实现一个有界队列
  */
 public class BoundedQueue<T> {
     private Object[]  items;

@@ -1,4 +1,4 @@
-package GinkgoStack.P15_DesignDataStruct.LruCache;
+package GinkgoStack.P15_DataStruct.LruCache;
 
 import java.util.HashMap;
 import java.util.Map;

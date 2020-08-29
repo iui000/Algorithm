@@ -1,4 +1,4 @@
-package GinkgoStack.P15_DesignDataStruct;
+package GinkgoStack.P15_DataStruct;
 
 import java.util.Stack;
 

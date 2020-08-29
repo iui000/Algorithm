@@ -7,6 +7,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
  * 10-16
+ * 用HashMap和ReentrantLock来实现线程安全的Cache
  */
 public class Cache {
     private static final Map<String, Object> map = new HashMap<String, Object>();
