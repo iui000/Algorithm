@@ -1,7 +1,27 @@
 package GinkgoStack.P11_Tree.SubTree;
 
-
-
+/**
+ * 判断t1树中是否含有与t2树拓扑结构完全相同的子树
+ * 左神的代码有点小bug:
+ *
+ *          * 提交记录
+ *          * 182 / 183 个通过测试用例
+ *          * 状态：解答错误
+ *          * 提交时间：2 分钟之前
+ *          * 输入：
+ *          * [12]
+ *          * [2]
+ *          * 输出：
+ *          * true
+ *          * 预期：
+ *          * false
+ *
+ *        TreeNode t1=new TreeNode(12);
+         *TreeNode t2=new TreeNode(2);
+         *System.out.println(isSubtree(t1,t2));
+ * 原因是第二个树根节点的值是第一个树根节点值的低位时，会出现bug,因为他们序列化出来的字符串是能够匹配的；
+ * 但是他们节点的值其实不一样。因此解决办法就是每个节点的值前面也得加一个特殊字符
+ */
 public class T1SubtreeEqualsT2 {
 
 	public static class TreeNode {
@@ -14,55 +34,35 @@ public class T1SubtreeEqualsT2 {
 		}
 	}
 
-//	public static boolean isSubtree(TreeNode t1, TreeNode t2) {
-//		String t1Str = serialByPre(t1);
-//		System.out.println(t1Str);
-//
-//		String t2Str = serialByPre(t2);
-//        System.out.println(t2Str);
-//
-//		return getIndexOf(t1Str, t2Str) != -1;
-//	}
-
-//    void getDfsOrder(TreeNode *o, vector <int> &tar) {
-//        if (!o) return;
-//        tar.push_back(o->val);
-//        if (o->left) getDfsOrder(o->left, tar);
-//        else tar.push_back(lNull);
-//        if (o->right) getDfsOrder(o->right, tar);
-//        else tar.push_back(rNull);
-//    }
-
     public static boolean isSubtree(TreeNode t1, TreeNode t2) {
-
-        StringBuilder t1Str = new StringBuilder();
-                serialByPre(t1,t1Str);
-//        System.out.println(t1Str);
-
-        StringBuilder t2Str = new StringBuilder();
-                serialByPre(t2,t2Str);
-//        System.out.println(t2Str);
-
-        return getIndexOf(t1Str.toString(), t2Str.toString()) != -1;
+        String t1Str = serialByPre(t1);
+        String t2Str = serialByPre(t2);
+        return getIndexOf(t1Str, t2Str) != -1;
     }
 
-	public static void serialByPre(TreeNode head,StringBuilder stringBuilder) {
-		if (head == null) {
-			return ;
-		}
-        stringBuilder.append(head.val);
-		if(head.left != null){
-            serialByPre(head.left,stringBuilder);
-        }else {
-            stringBuilder.append("@");
+    /**
+     * 对于这道题
+     * @param head
+     * @return
+     */
+    public static String serialByPre(TreeNode head) {
+
+        /**
+         * 原代码有bug,
+         *  * 原因是第二个树根节点的值是第一个树根节点值的低位时，会出现bug,因为他们序列化出来的字符串是能够匹配的；
+         *  * 但是他们节点的值其实不一样。因此解决办法就是每个节点的值前面也得加一个特殊字符,比如*
+         */
+        if(head == null){
+            return "*#!";
         }
 
-        if(head.right != null){
-            serialByPre(head.right,stringBuilder);
-        }else {
-            stringBuilder.append("#");
-        }
-	}
+	    String res = "*" + head.val + "!";
+	    res += serialByPre(head.left);
+        res += serialByPre(head.right);
+
+        return res;
+    }
+
 
 	// KMP
 	public static int getIndexOf(String s, String m) {
@@ -144,12 +144,8 @@ public class T1SubtreeEqualsT2 {
          * 预期：
          * false
          */
-        //Leetcode上面的这个测试用例有毒，应该是true
-        TreeNode t1 = new TreeNode(1);
-        t1.right = new TreeNode(2);
-
+        TreeNode t1 = new TreeNode(12);
         TreeNode t2 = new TreeNode(2);
-
 		System.out.println(isSubtree(t1, t2));
 
 	}

@@ -3,6 +3,9 @@ package GinkgoStack.P21_ZuoBook.C4_recursionAndDP;
 import java.util.Arrays;
 import java.util.Comparator;
 
+/**
+ * 信封嵌套问题
+ */
 public class Problem_08_EnvelopesProblem {
 
 	public static class Envelope {

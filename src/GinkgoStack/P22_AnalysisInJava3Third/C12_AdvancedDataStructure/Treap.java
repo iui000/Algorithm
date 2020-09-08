@@ -192,7 +192,7 @@ public class Treap<AnyType extends Comparable<? super AnyType>>
                 else
                     t = rotateWithRightChild( t );
 
-                if( t != nullNode )     // Continue on down
+                if( t != nullNode )     // Continue on next
                     t = remove( x, t );
                 else
                     t.left = nullNode;  // At a leaf

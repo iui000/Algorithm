@@ -42,7 +42,7 @@ public class LRUCache2 {
     /**
      * 双向链表节点
      */
-    static class DLinkedNode<K,V> {
+    static class  DLinkedNode<K,V> {
         K key;
         V value;
         DLinkedNode prev;

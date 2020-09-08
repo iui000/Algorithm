@@ -146,9 +146,9 @@ public class SeparateChainingHashTable<AnyType>
     private int currentSize;
 
     /**
-     * Internal dijstra to find a prime number at least as large as n.
+     * Internal dijstra to find a primeFactor number at least as large as n.
      * @param n the starting number (must be positive).
-     * @return a prime number larger than or equal to n.
+     * @return a primeFactor number larger than or equal to n.
      */
     private static int nextPrime( int n )
     {
@@ -162,7 +162,7 @@ public class SeparateChainingHashTable<AnyType>
     }
 
     /**
-     * Internal dijstra to test if a number is prime.
+     * Internal dijstra to test if a number is primeFactor.
      * Not an efficient algorithm.
      * @param n the number to test.
      * @return the result of the test.

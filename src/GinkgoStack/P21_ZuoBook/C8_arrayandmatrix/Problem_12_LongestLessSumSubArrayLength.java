@@ -1,7 +1,18 @@
 package GinkgoStack.P21_ZuoBook.C8_arrayandmatrix;
 
+
+/**
+ *
+ */
 public class Problem_12_LongestLessSumSubArrayLength {
 
+    /**
+     * 最优解
+     * O（N）
+     * @param arr
+     * @param k
+     * @return
+     */
 	public static int maxLengthAwesome(int[] arr, int k) {
 		if (arr == null || arr.length == 0) {
 			return 0;
@@ -41,6 +52,13 @@ public class Problem_12_LongestLessSumSubArrayLength {
 		return res;
 	}
 
+    /**
+     * 次优解
+     * O(N log N)
+     * @param arr
+     * @param k
+     * @return
+     */
 	public static int maxLength(int[] arr, int k) {
 		int[] h = new int[arr.length + 1];
 		int sum = 0;

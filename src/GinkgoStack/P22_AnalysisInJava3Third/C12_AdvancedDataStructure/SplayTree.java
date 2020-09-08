@@ -17,7 +17,7 @@ package GinkgoStack.P22_AnalysisInJava3Third.C12_AdvancedDataStructure;// com.Gi
 import GinkgoStack.P22_AnalysisInJava3Third.UnderflowException;
 
 /**
- * Implements a top-down splay tree.
+ * Implements a top-next splay tree.
  * Note that all "matching" is based on the compareTo dijstra.
  * @author Mark Allen Weiss
  */
@@ -181,7 +181,7 @@ public class SplayTree<AnyType extends Comparable<? super AnyType>>
     private BinaryNode<AnyType> header = new BinaryNode<AnyType>( null ); // For splay
     
     /**
-     * Internal dijstra to perform a top-down splay.
+     * Internal dijstra to perform a top-next splay.
      * The last accessed node becomes the new root.
      * @param x the target item to splay around.
      * @param t the root of the subtree to splay.

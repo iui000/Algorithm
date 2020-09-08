@@ -11,7 +11,7 @@ public class Problem_06_PaperFolding {
 			return;
 		}
 		printProcess(i + 1, N, true);
-		System.out.println(down ? "down " : "up ");
+		System.out.println(down ? "next " : "pre ");
 		printProcess(i + 1, N, false);
 	}
 

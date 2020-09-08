@@ -132,9 +132,9 @@ package GinkgoStack.P22_AnalysisInJava3Third;//package com.GinkgoStack;
 //        for( int i = 0; i < 100000; i++ )
 //        {
 //            String str = "";
-//            int len = LEN; // 3 + r.nextInt( 7 ); // between 3 and 9 characters
+//            int height = LEN; // 3 + r.nextInt( 7 ); // between 3 and 9 characters
 //
-//            for( int j = 0; j < len; j++ )
+//            for( int j = 0; j < height; j++ )
 //                str += (char) ( 'a' + r.nextInt( 26 ) );
 //
 //            lst.add( str );

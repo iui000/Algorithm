@@ -2,7 +2,7 @@ package GinkgoStack.P20_DynamicProgramming.IntervalDP;
 
 /**
  * 区间类型动态规划是线性动态规划的拓展，它在分阶段划分问题时，
- * 与阶段中元素出现的顺序和由前一阶段的哪些元素合并而来有很大的关系。（例：f[i][j]=f[i][k]+f[k+1][j]）
+ * 与阶段中元素出现的顺序和由前一阶段的哪些元素合并而来有很大的关系。（例：primeFactor[i][j]=primeFactor[i][k]+primeFactor[k+1][j]）
  *
  * 区间类动态规划的特点：
  *
@@ -67,7 +67,7 @@ public class StoneMerge {
      * 方法1：由于石子堆是围成一个圈，因此我们可以枚举分开的位置，首先将这个圈转化为链，
      * 因此要做n次，这样时间复杂度为 。
      * 方法2：将这条链延长2倍，扩展成2n-1堆，其中第1堆与n+1堆完全相同，第i堆与n+i堆完全相同，
-     * 这样只要对这2n堆动态规划后，枚举f(1,n),f(2,n+1),…,f(n,2n-1)取最优值即可。
+     * 这样只要对这2n堆动态规划后，枚举f(1,n),primeFactor(2,n+1),…,primeFactor(n,2n-1)取最优值即可。
      */
     int min,max;
     public void mergeStoneHeap(int[] a,int n){

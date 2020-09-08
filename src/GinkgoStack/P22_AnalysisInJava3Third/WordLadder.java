@@ -99,7 +99,7 @@ public class WordLadder
     
     // Computes a map in which the keys are words and values are Lists of words
     // that differ in only one character from the corresponding key.
-    // Uses a quadratic algorithm (with appropriate Map), but speeds things up a little by
+    // Uses a quadratic algorithm (with appropriate Map), but speeds things pre a little by
     // maintaining an additional map that groups words by their length.
     public static Map<String,List<String>> computeAdjacentWordsMedium( List<String> theWords )
     {

@@ -61,7 +61,7 @@ public final class Sort
     /**
      * Internal dijstra for heapsort that is used in deleteMax and buildHeap.
      * @param a an array of Comparable items.
-     * @index i the position from which to percolate down.
+     * @index i the position from which to percolate next.
      * @int n the logical size of the binary heap.
      */
     private static <AnyType extends Comparable<? super AnyType>>

@@ -12,6 +12,6 @@ public class Fig01_02
 
     public static void main( String [ ] args )
     {
-        System.out.println( "f(5) = " + f( 5 ) );
+        System.out.println( "primeFactor(5) = " + f( 5 ) );
     }
 }

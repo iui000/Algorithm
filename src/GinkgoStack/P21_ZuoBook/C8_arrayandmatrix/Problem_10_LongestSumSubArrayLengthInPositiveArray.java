@@ -1,5 +1,11 @@
 package GinkgoStack.P21_ZuoBook.C8_arrayandmatrix;
 
+
+/**
+ * 未排序正数数组中，累加和为给定值K的最长子数组长度
+ *
+ * 因为是正数，可以直接用普通的滑动窗口
+ */
 public class Problem_10_LongestSumSubArrayLengthInPositiveArray {
 
 	public static int getMaxLength(int[] arr, int k) {
@@ -14,13 +20,13 @@ public class Problem_10_LongestSumSubArrayLengthInPositiveArray {
 			if (sum == k) {
 				len = Math.max(len, right - left + 1);
 				sum -= arr[left++];
-			} else if (sum < k) {
+			} else if (sum < k) {//小于目标值，扩张
 				right++;
 				if (right == arr.length) {
 					break;
 				}
 				sum += arr[right];
-			} else {
+			} else {//大于目标值，收缩
 				sum -= arr[left++];
 			}
 		}

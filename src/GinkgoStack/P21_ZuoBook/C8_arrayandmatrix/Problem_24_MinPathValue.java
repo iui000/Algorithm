@@ -25,8 +25,8 @@ public class Problem_24_MinPathValue {
 			if (r == m.length - 1 && c == m[0].length - 1) {
 				return map[r][c];
 			}
-			walkTo(map[r][c], r - 1, c, m, map, rQ, cQ); // up
-			walkTo(map[r][c], r + 1, c, m, map, rQ, cQ); // down
+			walkTo(map[r][c], r - 1, c, m, map, rQ, cQ); // pre
+			walkTo(map[r][c], r + 1, c, m, map, rQ, cQ); // next
 			walkTo(map[r][c], r, c - 1, m, map, rQ, cQ); // left
 			walkTo(map[r][c], r, c + 1, m, map, rQ, cQ); // right
 		}

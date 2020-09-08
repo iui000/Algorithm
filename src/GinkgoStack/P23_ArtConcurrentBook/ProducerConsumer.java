@@ -32,7 +32,8 @@ public class ProducerConsumer {
 
             private Queue<Integer> queue = new LinkedList<>();
 
-            private PrimitiveIterator.OfLong longs = new Random().longs(10, 200).iterator();
+            private PrimitiveIterator.OfLong longs =
+                    new Random().longs(10, 200).iterator();
 
             private Lock lock = new ReentrantLock();
 
@@ -98,6 +99,8 @@ public class ProducerConsumer {
                         } finally {
                             lock.unlock();
                         }
+
+
                         try {
                             TimeUnit.MILLISECONDS.sleep(longs.nextLong());
                         } catch (InterruptedException ignore) {
@@ -116,16 +119,20 @@ public class ProducerConsumer {
                     System.out.println(String.format("B(mod 3) consume : %d", queue.b_pull()));
                 }
             }).start();
+
             new Thread(() -> {
                 while (true) {
                     System.out.println(String.format("C(mod 5) consume : %d", queue.c_pull()));
                 }
             }).start();
+
             new Thread(() -> {
                 while (true) {
                     System.out.println(String.format("D(other) consume : %d", queue.d_pull()));
                 }
             }).start();
+
+
             try {
                 Thread.sleep(1000L);
             } catch (InterruptedException e) {

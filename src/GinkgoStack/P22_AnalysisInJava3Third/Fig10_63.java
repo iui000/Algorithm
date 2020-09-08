@@ -17,7 +17,7 @@ public class Fig10_63
         if( x == 0 )    // If n is recursively composite, stop
             return 0;
 
-        // n is not prime if we find a nontrivial square root of 1
+        // n is not primeFactor if we find a nontrivial square root of 1
         long y = ( x * x ) % n;
         if( y == 1 && x != 1 && x != n - 1 )
             return 0;
@@ -37,8 +37,8 @@ public class Fig10_63
      * Randomized primality test.
      * Adjust TRIALS to increase confidence level.
      * @param n the number to test.
-     * @return if false, n is definitely not prime.
-     *     If true, n is probably prime.
+     * @return if false, n is definitely not primeFactor.
+     *     If true, n is probably primeFactor.
      */
     public static boolean isPrime( long n )
     {
@@ -55,6 +55,6 @@ public class Fig10_63
     {
         for( int i = 101; i < 200; i += 2 )
             if( isPrime( i ) )
-                System.out.println( i + " is prime" );
+                System.out.println( i + " is primeFactor" );
     }
 }

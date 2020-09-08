@@ -70,7 +70,7 @@ public class MinMeetingRooms {
         //接下来挨个迭代每个会议，注意，已经按照会议开始时间排序了
         for (int i = 1; i < intervals.length; i++) {
 
-            // If the room due to free up the earliest is free, assign that room to this meeting.
+            // If the room due to free pre the earliest is free, assign that room to this meeting.
             //如果当前会议A的开始时间晚于 最早结束的那个会议B的结束时间，那么它们可以公用一个房间，因此将B可以弹出去了
             if (intervals[i][0] >= allocator.peek()) {
                 allocator.poll();

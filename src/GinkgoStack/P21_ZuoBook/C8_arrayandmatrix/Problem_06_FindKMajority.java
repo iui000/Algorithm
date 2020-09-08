@@ -5,6 +5,14 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map.Entry;
 
+/**
+ * 在数组中找到出现次数大于N/K的数
+ *
+ * 原问题：
+ * 在数组中找到出现次数大于一半的数；
+ * 进阶问题：
+ * 在数组中找到出现次数大于N/K的数
+ */
 public class Problem_06_FindKMajority {
 
 	public static void printHalfMajor(int[] arr) {
@@ -20,6 +28,9 @@ public class Problem_06_FindKMajority {
 				times--;
 			}
 		}
+
+		//必须进行验证这个数出现频次是否真的大于一半；因为有例外：
+        //1 2 3 ，最后会剩下3，但它不是答案
 		times = 0;
 		for (int i = 0; i != arr.length; i++) {
 			if (arr[i] == cand) {
@@ -32,6 +43,8 @@ public class Problem_06_FindKMajority {
 			System.out.println("no such number.");
 		}
 	}
+
+
 
 	public static void printKMajor(int[] arr, int K) {
 		if (K < 2) {

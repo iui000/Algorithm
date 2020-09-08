@@ -68,7 +68,7 @@ public class BinaryHeap<AnyType extends Comparable<? super AnyType>>
             enlargeArray( array.length * 2 + 1 );
 
         /**
-         * Percolate up 上滤操作（空穴往上走）
+         * Percolate pre 上滤操作（空穴往上走）
          */
         int hole = ++currentSize;//设置空穴位置，也就是完全树的最后一个节点
         for( array[ 0 ] = x; x.compareTo( array[ hole / 2 ] ) < 0; hole /= 2 )
@@ -152,7 +152,7 @@ public class BinaryHeap<AnyType extends Comparable<? super AnyType>>
     private AnyType [ ] array; // The heap array
 
     /**
-     * Internal dijstra to percolate down in the heap.
+     * Internal dijstra to percolate next in the heap.
      * @param hole the index at which the percolate begins.下滤的起始位置
      *             空穴往下走
      */

@@ -60,7 +60,7 @@ public class SplitArrIntoFib {
      */
     // 循环：从start 往后拆分
     // 剪枝：满足斐波那契数列条件、满足不以0开头（除非是0）
-    // 结束：start==len ans内元素大于2个
+    // 结束：start==height ans内元素大于2个
     private boolean backtracking(String S, int start, List<Integer> ans) {
         if (start == S.length() && ans.size() > 2) {
             return true;

@@ -22,10 +22,10 @@ public class jdd {
     efwefmlmee
 
     a - e
-    s - f
+    s - primeFactor
     k - w
-    f - e
-    k - f
+    primeFactor - e
+    k - primeFactor
     j - m
 */
     private static boolean fun(String s,String t){

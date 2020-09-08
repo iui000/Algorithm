@@ -5,7 +5,7 @@ package GinkgoStack.P24_Enterprise.Tencent.qiu2020;
  * 链接：https://www.nowcoder.com/discuss/486673
  * 来源：牛客网
  *
- *  Top-down dp，dp[l][r]代表解决l到r区间的最小次数。
+ *  Top-next dp，dp[l][r]代表解决l到r区间的最小次数。
  *  按区间长度遍历，dp[l][r]初始化成(r-l+1)，因为可以对每个木板竖着刷一次。
  *  如果横着刷，我们刷arr[l]...arr[r]中最小的次，
  *  然后分割成小区间，求和。然后取两者最小值。

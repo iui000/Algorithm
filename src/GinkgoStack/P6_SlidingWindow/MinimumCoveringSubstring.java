@@ -1,6 +1,8 @@
 package GinkgoStack.P6_SlidingWindow;
 
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * 76. 最小覆盖子串
@@ -23,6 +25,8 @@ public class MinimumCoveringSubstring {
 
     /**
      * 这道题是典型的滑动窗口题目
+     * 自己的解法
+     *
      * @param s
      * @param t
      * @return
@@ -95,10 +99,87 @@ public class MinimumCoveringSubstring {
         return (end >= begin && begin != -1)?s.substring(begin,end+1):"";
     }
 
+    /**
+     * labuladong的解法
+     *
+     * 没有AC
+     * @param s
+     * @param t
+     * @return
+     */
+
+
+    /*
+
+
+1 : str2.charAt(i)
+2: str1.length()  或者 ： Integer.MAX_VALUE
+3：count
+4 : str1.subString(left,right+1);
+5: count
+     */
+    public static String minWindow2(String s, String t) {
+
+        //当然，对于这道题来说可以用数组，比用Map更方便高效
+        Map<Character,Integer> need = new HashMap<>();
+        Map<Character,Integer> window = new HashMap<>();
+
+        for(int i = 0;i < t.length();i++){
+            need.put(t.charAt(i),need.getOrDefault(t.charAt(i),0)+1);
+        }
+
+        int left = 0, right = 0;
+        int valid = 0;//valid变量表示窗口中满足need条件的字符个数，如果valid和need.size的大小相同，则说明窗口已满足条件，已经完全覆盖了串T。
+        // 记录最小覆盖子串的起始索引及长度
+        int start = 0, len = Integer.MAX_VALUE;
+        while (right < s.length()) {
+            // c 是将移入窗口的字符
+            char c = s.charAt(right);
+            // 右移窗口
+            right++;
+            // 进行窗口内数据的一系列更新
+            if (need.containsKey(c)) {
+                window.put(c,window.getOrDefault(c,0)+1);
+                if (window.get(c) == need.get(c))
+                    valid++;
+            }
+
+            // 判断左侧窗口是否要收缩
+            while (valid == need.size()) {
+                // 在这里更新最小覆盖子串
+                if (right - left < len) {
+                    start = left;
+                    len = right - left ;
+                }
+                // d 是将移出窗口的字符
+                char d = s.charAt(left);
+                // 左移窗口
+                left++;
+                // 进行窗口内数据的一系列更新
+                if (need.containsKey(d)) {
+                    if (window.get(d) == need.get(d))
+                        valid--;
+
+                    if(window.get(d) == 1){
+                        window.remove(d);
+                    }else {
+                        window.put(d,window.get(d)-1);
+                    }
+
+                }
+            }
+        }
+        // 返回最小覆盖子串
+        return len == Integer.MAX_VALUE ?
+                "" : s.substring(start, start+len);
+    }
+
+
+
     public static void main(String[] args) {
         String s = "ADOBECODEBANC";
         String t = "ABC";
         System.out.println(minWindow(s,t));
-
+        System.out.println(minWindow2(s,t));
     }
 }
