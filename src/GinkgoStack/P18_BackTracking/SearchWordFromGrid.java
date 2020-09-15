@@ -93,17 +93,19 @@ public class SearchWordFromGrid {
 
         public static void main(String[] args) {
 
-//        char[][] board =
-//                {
-//                        {'A', 'B', 'C', 'E'},
-//                        {'S', 'F', 'C', 'S'},
-//                        {'A', 'D', 'E', 'E'}
-//                };
+        char[][] board =
+                {
+                        {'A', 'B', 'C', 'E'},
+                        {'S', 'F', 'C', 'S'},
+                        {'A', 'D', 'E', 'E'}
+                };
 //
 //        String word = "ABCCED";
 
 
-            char[][] board = {{'a', 'b'}};
+//            char[][] board = {{'a', 'b'}};
+
+
             String word = "ba";
             SearchWordFromGrid solution = new SearchWordFromGrid();
             boolean exist = solution.exist(board, word);

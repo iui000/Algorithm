@@ -1,4 +1,4 @@
-package GinkgoStack.P13_GraphTheory.ShortedPath;
+package GinkgoStack.P24_Enterprise.netEasy;
 
 import java.util.Arrays;
 import java.util.Scanner;

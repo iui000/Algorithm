@@ -1,4 +1,4 @@
-package GinkgoStack.P21_ZuoBook.C2_List;
+package GinkgoStack.P8_LinkedList;
 
 import java.util.Stack;
 

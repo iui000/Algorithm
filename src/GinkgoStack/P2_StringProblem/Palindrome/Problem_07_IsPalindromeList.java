@@ -1,4 +1,4 @@
-package GinkgoStack.P21_ZuoBook.C2_List;
+package GinkgoStack.P2_StringProblem.Palindrome;
 
 import java.util.Stack;
 

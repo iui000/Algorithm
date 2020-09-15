@@ -29,13 +29,14 @@ public class LengthOfLongestSubstring {
 
     /**
      * 我的思路：
-     * 在滑动窗口基础上改进查找性能，因为窗口中的字符不需要严格顺序，只是要记住每个字符的下标位置，因此用HashMap来作为滑动窗口
+     * 在滑动窗口基础上改进查找性能，因为窗口中的字符不需要严格顺序，
+     * 只是要记住每个字符的下标位置，因此用HashMap来作为滑动窗口
      * 查询性能提高，删除性能也没有下降。
      * @param s
      * @return
      */
     public static int lengthOfLongestSubstring(String s) {
-        Map<Character,Integer> subs = new HashMap<>();
+        Map<Character,Integer> subs = new HashMap<>();//每个字符的下标位置
 
         char[] arr  = s.toCharArray();
 
@@ -74,6 +75,7 @@ public class LengthOfLongestSubstring {
      *
      * 这里和之前不一样，要在收缩窗口完成后更新res，因为窗口收缩的 while 条件是存在重复元素，换句话说收缩完成后一定保证窗口中没有重复嘛。
      *
+     * c++代码
      * int lengthOfLongestSubstring(string s) {
      *     unordered_map<char, int> window;
      *

@@ -1,4 +1,4 @@
-package GinkgoStack.P21_ZuoBook.C2_List;
+package GinkgoStack.P8_LinkedList;
 
 /**
  * 11.两个单链表相交的一系列问题（找环、找交点）（将★★★★）
