@@ -3,6 +3,9 @@ package GinkgoStack.P15_DataStruct;
 import java.util.Stack;
 
 /**
+ * 155 最小栈
+ * 同一题：剑指 Offer 30. 包含min函数的栈
+ *
  * 设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。
  *
  * push(x) —— 将元素 x 推入栈中。
@@ -41,14 +44,14 @@ import java.util.Stack;
  */
 
 /**
- * 思路：辅助栈，两个栈并行
+ * 思路：加一个从底到顶单调递减的辅助栈，然后两个栈并行
  */
-public class MinStack {
+public class MinStack155andOffer30 {
     //这个解法效率不是很高，Stack是继承自vector，效率自然不算高，可以自己手动实现栈，或者用链表
     /** initialize your data structure here. */
     private Stack<Integer> stack;
     private Stack<Integer> min_stack;
-    public MinStack() {
+    public MinStack155andOffer30() {
         stack = new Stack<>();
         min_stack = new Stack<>();
     }

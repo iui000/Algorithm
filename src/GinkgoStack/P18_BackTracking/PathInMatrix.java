@@ -7,8 +7,8 @@ package GinkgoStack.P18_BackTracking;
  * 如果一条路径经过了矩阵的某一格，那么该路径不能再次进入该格子。
  * 例如，在下面的3×4的矩阵中包含一条字符串“bfce”的路径（路径中的字母用加粗标出）。
  *
- * [["a","b","c","e"],
- * ["s","primeFactor","c","s"],
+ * [["a","b","charArr","e"],
+ * ["s","primeFactor","charArr","s"],
  * ["a","d","e","e"]]
  *
  * 但矩阵中不包含字符串“abfb”的路径，因为字符串的第一个字符b占据了矩阵中的第一行第二个格子之后，
@@ -27,7 +27,7 @@ package GinkgoStack.P18_BackTracking;
  * 输出：true
  * 示例 2：
  *
- * 输入：board = [["a","b"],["c","d"]], word = "abcd"
+ * 输入：board = [["a","b"],["charArr","d"]], word = "abcd"
  * 输出：false
  * 提示：
  *

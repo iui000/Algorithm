@@ -1,8 +1,12 @@
-package GinkgoStack.Temporary;
+package GinkgoStack.P13_GraphTheory.DFS;
 
 import java.util.Scanner;
 
-public class Main77 {
+/**
+ * leetcode 79
+ * 小米笔试
+ */
+public class SearchWordFromGrid79 {
 
     public static boolean exist(char[][] board, String word) {
         boolean[][] visited  = new boolean[board.length][board[0].length];

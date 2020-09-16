@@ -3,9 +3,7 @@ package GinkgoStack.P27_Common;
 
 import com.sun.deploy.util.StringUtils;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
 
 public class Base {
 
@@ -76,7 +74,7 @@ public class Base {
         list.add('A');
         list.add('B');
         //StringUtils要用apache的包
-        System.out.println(StringUtils.join(list,","));
+//        System.out.println(StringUtils.join(list,","));
 
 
         /**
@@ -92,6 +90,44 @@ public class Base {
          * round 表示"四舍五入"，算法为Math.floor(x+0.5) ，即将原来的数字加上 0.5 后再向下取整，
          *      * 所以 Math.round(11.5) 的结果为 12，Math.round(-11.5) 的结果为 -11。
          */
+
+
+        /**
+         * List转换成数组
+         * https://www.jianshu.com/p/7eee157f74fc
+         * Object[] toArray();
+         * <T> T[] toArray(T[] a);
+         */
+        List<String> strList = new ArrayList<>();
+        strList.add("list-a");
+        strList.add("list-b");
+        String[] strArr = strList.toArray(new String[strList.size()]);//必须是泛型数组，基本类型数据没办法
+
+
+        /**
+         * 数组转换成List
+         * https://www.jianshu.com/p/7eee157f74fc
+         * 可以使用Arrays.asList()或者Collections.addAll()方法,
+         * 推荐使用Collections.addAll()方法，
+         * 这样得到的返回对象可以往里面添加新的元素。
+         */
+        String[] strArray = { "array-a", "array-b" };
+        //注意该方法,Arrays.asList返回值是java.util.Arrays类中一个私有静态内部类java.util.Arrays.ArrayList，
+        //它并非java.util.ArrayList类。
+        //java.util.Arrays.ArrayList类具有set()，get()，contains()等方法，
+        //但是不支持添加add()或删除remove()方法,调用这些方法会报错UnsupportedOperationException。
+        List<String> sList = Arrays.asList(strArray);
+//        sList.add("array-c");//运行时，调用这些方法会报错UnsupportedOperationException。
+        //解决方法是新建一个List对象,并且加入返回的sList，然后再add新元素：
+        List<String> strListNew = new ArrayList<>(sList);
+        strListNew.add("array-c");
+
+
+        //更好的办法是Collections.addAll()方法
+        String[] strArra = { "array-a", "array-b" };
+        List<String> strL = new ArrayList<>(strArra.length);
+        Collections.addAll(strL, strArra);
+        strL.add("array-c");
 
     }
 

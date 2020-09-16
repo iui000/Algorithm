@@ -42,14 +42,14 @@ public class Problem_06_LongestPathSum {
     /**
      *
      * @param cur
-     * @param sum
+     * @param tarSum
      * @param preSum 从head到cur父节点的累加和记为preSum
      * @param level
      * @param maxLen
      * @param sumMap
      * @return
      */
-	public static int preOrder(Node cur, int sum, int preSum, int level,
+	public static int preOrder(Node cur, int tarSum, int preSum, int level,
                                int maxLen, HashMap<Integer, Integer> sumMap) {
 		if (cur == null) {
 			return maxLen;
@@ -62,15 +62,15 @@ public class Problem_06_LongestPathSum {
 		if (!sumMap.containsKey(curSum)) {
 			sumMap.put(curSum, level);
 		}
-		if (sumMap.containsKey(curSum - sum)) {
-			maxLen = Math.max(level - sumMap.get(curSum - sum), maxLen);
+		if (sumMap.containsKey(curSum - tarSum)) {
+			maxLen = Math.max(level - sumMap.get(curSum - tarSum), maxLen);
 		}
 
         /**
          * 递归左右子树
          */
-		maxLen = preOrder(cur.left, sum, curSum, level + 1, maxLen, sumMap);
-		maxLen = preOrder(cur.right, sum, curSum, level + 1, maxLen, sumMap);
+		maxLen = preOrder(cur.left, tarSum, curSum, level + 1, maxLen, sumMap);
+		maxLen = preOrder(cur.right, tarSum, curSum, level + 1, maxLen, sumMap);
 		//在返回前还有一个重要的工作
         //curSum对应的level等于当前层数， 说明curSum是遍历到cur时加上去的，那就把这条记录删除。
 		if (level == sumMap.get(curSum)) {

@@ -1,9 +1,11 @@
-package GinkgoStack.Temporary;
+package GinkgoStack.P28_Others;
 
 import java.util.Scanner;
 
-
-public class Main11 {
+/**
+ * 小米笔试
+ */
+public class RockPaperScissors {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int T = scanner.nextInt();
@@ -33,7 +35,7 @@ public class Main11 {
     }
 
     /**
-     * B J S
+     * B J S   布 剪刀 石头
      * @param s
      * @param t
      * @return
