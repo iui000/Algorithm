@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 //这种方法是在三数之和的外面套了一层for循环
+
+
+/**
+ * 网上很多人说给出了O(n^2logn)的算法，不过严格来说，也不是真正的O(n^2 log n)
+ * https://bbs.csdn.net/topics/390853322
+ */
 public class fourSum {
 
     public List<List<Integer>> fourSum(int[] nums, int target){

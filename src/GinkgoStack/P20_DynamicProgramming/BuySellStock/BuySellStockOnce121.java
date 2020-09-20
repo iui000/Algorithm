@@ -10,7 +10,7 @@ package GinkgoStack.P20_DynamicProgramming.BuySellStock;
  *
  *
  */
-public class BuySellStockOnce {
+public class BuySellStockOnce121 {
 
     public int maxProfit(int[] prices) {
         // k == 1

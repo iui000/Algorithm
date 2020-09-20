@@ -37,11 +37,11 @@ public class Problem_02_MinPathSum {
 		int[][] dp = new int[row][col];
 
 		dp[0][0] = m[0][0];
-		//将第一行设置初值
+		//将第一列设置初值
 		for (int i = 1; i < row; i++) {
 			dp[i][0] = dp[i - 1][0] + m[i][0];
 		}
-		//将第一列设置初值
+		//将第一行设置初值
 		for (int j = 1; j < col; j++) {
 			dp[0][j] = dp[0][j - 1] + m[0][j];
 		}

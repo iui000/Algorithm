@@ -1,5 +1,11 @@
 package GinkgoStack.P21_ZuoBook.C4_RecursionAndDP;
 
+
+/**
+ * 第二版新题
+ * 机器人到达指定位置方法数
+ *
+ */
 public class Problem_04_RobotWalk {
 
 	public static int ways1(int N, int M, int K, int P) {
