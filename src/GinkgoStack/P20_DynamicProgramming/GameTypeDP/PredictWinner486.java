@@ -1,4 +1,4 @@
-package GinkgoStack.P20_DynamicProgramming;
+package GinkgoStack.P20_DynamicProgramming.GameTypeDP;
 
 /**
  * 486. 预测赢家
@@ -57,7 +57,7 @@ public class PredictWinner486 {
                 for (int i = 0; i + len -1 < nums.length; i++) {
                     int j = i + len -1;
                     //ifSelectLeft表示，玩家1选择了左边i,留给玩家2的区间是 i+1...j。然后：
-                    // Math.min(dp[i+1][j-1],dp[i+2][j])什么意思呢？
+                    //Math.min(dp[i+1][j-1],dp[i+2][j])什么意思呢？
                     //是从玩家2的角度来思考的，因为他们要博弈，而且按照自己的最有策略来做选择，玩家2当然希望他选择之后，
                     //剩下的子数组对玩家1最不利，因此是求min
                     //假设玩家2选了右边j，也就是留下 i+1...j-1供玩家1选择;
