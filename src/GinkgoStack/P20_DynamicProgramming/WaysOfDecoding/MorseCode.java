@@ -1,4 +1,4 @@
-package GinkgoStack.P24_Enterprise.netEasy;
+package GinkgoStack.P20_DynamicProgramming.WaysOfDecoding;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,8 +6,11 @@ import java.util.Scanner;
 
 
 /**
- * AC代码
+ * 网易笔试
+ * 莫尔斯编码
+ * 爬梯子的变型
  *
+ * AC代码
  *         map.put("0","A");
  *         map.put("1","B");
  *         map.put("10","C");

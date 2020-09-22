@@ -1,4 +1,4 @@
-package GinkgoStack.P2_StringProblem;
+package GinkgoStack.P2_StringProblem.KMP;
 
 /**
  * 百度一面的面试题

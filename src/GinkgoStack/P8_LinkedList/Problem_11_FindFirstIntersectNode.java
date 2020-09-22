@@ -103,7 +103,8 @@ public class Problem_11_FindFirstIntersectNode {
      * @return
      */
     public Node noLoop2(Node headA, Node headB) {
-        if (headA == null || headB == null) return null;
+        if (headA == null || headB == null)
+            return null;
         Node pA = headA, pB = headB;
         while (pA != pB) {
             pA = pA == null ? headB : pA.next;

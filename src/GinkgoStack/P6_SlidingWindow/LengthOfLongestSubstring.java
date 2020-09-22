@@ -36,7 +36,8 @@ public class LengthOfLongestSubstring {
      * @return
      */
     public static int lengthOfLongestSubstring(String s) {
-        Map<Character,Integer> subs = new HashMap<>();//每个字符的下标位置
+        //每个字符的下标位置
+        Map<Character,Integer> window = new HashMap<>();
 
         char[] arr  = s.toCharArray();
 
@@ -45,19 +46,26 @@ public class LengthOfLongestSubstring {
         int res = 0;
         for(int i =0;i<len;i++){
             char c = arr[i];
-            if(!subs.containsKey(c)){//如果窗口集合中没有这个字符，就继续往后滑动，往右扩张
-                subs.put(c,i);
+            //如果窗口集合中没有这个字符，就继续往后滑动，往右扩张
+            if(!window.containsKey(c)){
+                window.put(c,i);
                 curLen = curLen+1;
-            }else {//如果已经出现过该字符，那么就应该将旧的那个字符及之前(指的在原字符串中的下标位置)的字符都弹出
-                int index = subs.get(c);//记住之前出现的那个字符的位置
-                curLen = i - index;//窗口剩余的长度
-                for(int j = start;j <= index;j++){//左边收缩，将旧的那个字符和处于它左边(指的在原字符串中的下标位置)的字符都弹出
-                    subs.remove(arr[j]);
+            }else {//如果已经出现过该字符，那么就应该将旧的那个字符及之前(指的在原字符串中的下标位置)的字符都弹出.
+                //记住之前出现的那个字符的位置
+                int index = window.get(c);
+                //窗口剩余的长度
+                curLen = i - index;
+                //左边收缩，将旧的那个字符和处于它左边(指的在原字符串中的下标位置)的字符都弹出
+                for(int j = start;j <= index;j++){
+                    window.remove(arr[j]);
                 }
-                subs.put(c,i);//然后把它加入
-                start = index+1;//窗口中第一个字符的下标
+                //然后把它加入
+                window.put(c,i);
+                //更新窗口中第一个字符的下标
+                start = index+1;
             }
-            if(curLen > res){//找到最大的长度值
+            //找到最大的长度值
+            if(curLen > res){
                 res = curLen;
             }
         }
@@ -67,7 +75,7 @@ public class LengthOfLongestSubstring {
 
     /**
      * labuladong
-     * 这就是变简单了，连need和valid都不需要，而且更新窗口内数据也只需要简单的更新计数器window即可。
+     * need和valid都不需要，而且更新窗口内数据也只需要简单的更新计数器window即可。
      *
      * 当window[c]值大于 1 时，说明窗口中存在重复字符，不符合条件，就该移动left缩小窗口了嘛。
      *
