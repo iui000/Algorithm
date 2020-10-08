@@ -1,4 +1,4 @@
-package GinkgoStack.P24_Enterprise.alibaba;
+package GinkgoStack.P20_DynamicProgramming;
 
 /**
  * 7.27 第二题 JAVA

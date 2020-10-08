@@ -1,4 +1,4 @@
-package GinkgoStack.P24_Enterprise.BaiDu;
+package GinkgoStack.P1_ArrayProblem.IntervalProblems;
 
 import java.util.*;
 

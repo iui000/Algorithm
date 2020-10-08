@@ -1,4 +1,4 @@
-package GinkgoStack.P24_Enterprise.AiQiyi;
+package GinkgoStack.P12_Math;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * n! 末尾0的个数
  */
-public class base1 {
+public class NumberOfZeros {
 
     public static int Zeroes(int n) {
         int count = 0;

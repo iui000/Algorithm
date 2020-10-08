@@ -1,4 +1,4 @@
-package GinkgoStack.Alibaba;
+package GinkgoStack.P18_BackTracking;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * 小强最近在研究某个飘洋过海的游戏。
  *
- * 游戏可以看成一个n∗mn*mn∗m的方格图，从左上角(1,1)到右下角的(n,m)有两种地面，
+ * 游戏可以看成一个n∗m的方格图，从左上角(1,1)到右下角的(n,m)有两种地面，
  * C表示为陆地SSS表示海洋，每次穿行只能到达上下左右四个格子之一，不能走到方格图之外。
  *
  * 在陆地之间穿行一格需要花费3点行动力，在海洋之间穿行一格需要花费2点行动力。

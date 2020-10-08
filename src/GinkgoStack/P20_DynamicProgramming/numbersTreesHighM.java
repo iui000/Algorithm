@@ -1,4 +1,4 @@
-package GinkgoStack.P24_Enterprise.alibaba.DP;
+package GinkgoStack.P20_DynamicProgramming;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package GinkgoStack.P24_Enterprise.AiQiyi;
+package GinkgoStack.P9_Hash;
 
 
 import java.util.HashSet;
@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * 东西南北，走到重复的路就是True,否则就false
  */
-public class base2 {
+public class RepeatTheRoad {
 
     private static boolean fun(String s){
         int n = s.length();

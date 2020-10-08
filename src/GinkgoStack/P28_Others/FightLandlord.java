@@ -1,4 +1,4 @@
-package GinkgoStack.P24_Enterprise.alibaba;
+package GinkgoStack.P28_Others;
 
 import java.util.Scanner;
 

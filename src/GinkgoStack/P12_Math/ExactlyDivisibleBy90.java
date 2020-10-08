@@ -1,4 +1,4 @@
-package GinkgoStack.P24_Enterprise.BaiDu;
+package GinkgoStack.P12_Math;
 
 import java.util.HashMap;
 import java.util.Scanner;

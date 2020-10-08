@@ -1,7 +1,10 @@
 
-package GinkgoStack.P24_Enterprise.AiQiyi;
+package GinkgoStack.P3_StackProblem;
 import java.util.*;
 
+/**
+ * 括号匹配
+ */
 public class ValidParentheses {
 
     private static boolean IsValidExp (String s) {
