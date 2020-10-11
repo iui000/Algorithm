@@ -11,7 +11,7 @@ import java.util.Stack;
  *
  * 求最大的 L[i] * R[i]
  *
- * 其实这道题很简单，单调栈，可惜当时漏掉了一点细节，只A了60%左右
+ * 其实这道题很简单，单调栈（递减），可惜当时漏掉了一点细节，只A了60%左右
  */
 public class LeftRightNearestLargerValue {
 
