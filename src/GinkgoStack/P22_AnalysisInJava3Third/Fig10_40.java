@@ -3,7 +3,7 @@ package GinkgoStack.P22_AnalysisInJava3Third;
 public class Fig10_40
 {
     /**
-     * Compute Fibonacci numbers as described in Chapter 1.
+     * Compute FibonacciAndTribonacci numbers as described in Chapter 1.
      */
     public static int fib( int n )
     {
@@ -14,7 +14,7 @@ public class Fig10_40
     }
 
     /**
-     * Compute Fibonacci numbers as described in Chapter 1.
+     * Compute FibonacciAndTribonacci numbers as described in Chapter 1.
      */
     public static int fibonacci( int n )
     {

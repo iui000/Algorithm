@@ -1,4 +1,4 @@
-package GinkgoStack.P12_Math.Fibonacci;
+package GinkgoStack.P12_Math.FibonacciAndTribonacci;
 
 import java.util.*;
 

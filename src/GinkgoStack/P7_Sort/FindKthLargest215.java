@@ -1,4 +1,4 @@
-package GinkgoStack.P1_ArrayProblem;
+package GinkgoStack.P7_Sort;
 
 /**
  * 215. 数组中的第K个最大元素
@@ -16,10 +16,10 @@ package GinkgoStack.P1_ArrayProblem;
  *
  * 你可以假设 k 总是有效的，且 1 ≤ k ≤ 数组的长度。
  */
-public class FindKthLargest {
+public class FindKthLargest215 {
 
     /**
-     * 基于快排
+     * 方法一：基于快排
      * @param nums
      * @param k
      * @return
@@ -44,9 +44,10 @@ public class FindKthLargest {
         int p = partition(a,low,high);
         if(p == targetIndex){
             return a[p];
-        }
-        else {
-            return p < targetIndex ? quickSelect(a,p+1,high,targetIndex):quickSelect(a,low,p-1,targetIndex);
+        } else {
+            return p < targetIndex ?
+                    quickSelect(a,p+1,high,targetIndex):
+                    quickSelect(a,low,p-1,targetIndex);
         }
     }
 

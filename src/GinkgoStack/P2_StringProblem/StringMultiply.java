@@ -24,7 +24,7 @@ public class StringMultiply {
      * 自己的解法
      * 按照乘法规则模拟一便即可
      * 时间复杂度是O(n*m)
-     *         int n = num1.length();
+     *         int n = generateBoard.length();
      *         int m = num2.length();
      * @param num1
      * @param num2

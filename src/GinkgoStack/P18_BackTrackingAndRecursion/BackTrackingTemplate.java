@@ -1,26 +1,38 @@
-package GinkgoStack.P18_BackTracking;
+package GinkgoStack.P18_BackTrackingAndRecursion;
 
 import java.util.LinkedList;
 import java.util.List;
 
 /**
  * result = []
- * def backtrack(路径, 选择列表):
+ * def recursive(路径, 选择列表):
  *     if 满足结束条件:
  *         result.add(路径)
  *         return
  *
  *     for 选择 in 选择列表:
  *         做选择
- *         backtrack(路径, 选择列表)
+ *         recursive(路径, 选择列表)
  *         撤销选择
  */
 
 
-
 /**
- * 例子：全排列问题
- * PS：为了简单清晰起见，我们这次讨论的全排列问题不包含重复的数字。
+ * 46. 全排列
+ * 给定一个 没有重复 数字的序列，返回其所有可能的全排列。
+ *
+ * 示例:
+ *
+ * 输入: [1,2,3]
+ * 输出:
+ * [
+ *   [1,2,3],
+ *   [1,3,2],
+ *   [2,1,3],
+ *   [2,3,1],
+ *   [3,1,2],
+ *   [3,2,1]
+ * ]
  */
 public class BackTrackingTemplate {
     List<List<Integer>> res = new LinkedList<>();

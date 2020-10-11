@@ -1,4 +1,4 @@
-package GinkgoStack.P18_BackTracking;
+package GinkgoStack.P18_BackTrackingAndRecursion;
 
 /**
  * 剑指 Offer 12. 矩阵中的路径

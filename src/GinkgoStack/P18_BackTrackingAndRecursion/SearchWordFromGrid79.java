@@ -1,4 +1,4 @@
-package GinkgoStack.P18_BackTracking;
+package GinkgoStack.P18_BackTrackingAndRecursion;
 /**
  * 79. 单词搜索
  * 给定一个二维网格和一个单词，找出该单词是否存在于网格中。

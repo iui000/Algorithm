@@ -1,4 +1,4 @@
-package GinkgoStack.P18_BackTracking;
+package GinkgoStack.P18_BackTrackingAndRecursion;
 
 /**
  * 79. 单词搜索

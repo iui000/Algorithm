@@ -1,4 +1,4 @@
-package GinkgoStack.P18_BackTracking;
+package GinkgoStack.P18_BackTrackingAndRecursion;
 
 import java.util.HashSet;
 import java.util.LinkedList;
