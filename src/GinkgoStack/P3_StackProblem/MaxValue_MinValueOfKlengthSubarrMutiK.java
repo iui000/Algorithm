@@ -19,7 +19,7 @@ public class MaxValue_MinValueOfKlengthSubarrMutiK {
      * @param n
      * @return
      */
-    public static int solution(int[] arr,int n) {
+    public static long solution(long[] arr,int n) {
         Stack<Integer> stack = new Stack<>();
         int[] L = new int[n];//左边比自己更小的数的下标
         int[] R = new int[n];//右边比自己更小的数的下标
@@ -50,9 +50,9 @@ public class MaxValue_MinValueOfKlengthSubarrMutiK {
             stack.push(i);
         }
 
-        int ans = Integer.MIN_VALUE;
+        long ans = Integer.MIN_VALUE;
         for (int i = 0; i < n; i++) {
-            int m = (R[i] - L[i] -1 )*arr[i];
+            long m = (R[i] - L[i] -1 )*arr[i];
             ans = m > ans?m:ans;
         }
 
@@ -62,9 +62,9 @@ public class MaxValue_MinValueOfKlengthSubarrMutiK {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int[] nums = new int[n];
+        long[] nums = new long[n];
         for (int i = 0; i < n; i++) {
-            nums[i] = sc.nextInt();
+            nums[i] = sc.nextLong();
         }
 
         System.out.println(solution(nums,n));
