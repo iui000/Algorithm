@@ -1,9 +1,10 @@
-package GinkgoStack.P21_ZuoBook.C1_StackAndQueue;
+package GinkgoStack.P3_StackProblem.MonotonousStack;
 
 import java.util.Stack;
 
 /**
  * 求最大子矩阵的大小(可以理解为面积)
+ * 和leetcode 85题一样 85. 最大矩形
  * 矩形int[n][m]
  * 用动态规划逐行计算出的height[m](代表m根柱子)；
  * 根据height[m]，并借住单调栈计算每根柱子能向左右扩展的区域curArea；

@@ -53,6 +53,36 @@ public class Problem_11_FindFirstIntersectNode {
         return slow;
     }
 
+    /**
+     * 第一个问题：leetcode的写法
+     * 判断一个链表是否有环，如果有环，返回第一个入环的点，否则返回null
+     */
+    public class Solution {
+        public Node detectCycle(Node head) {
+            if (head == null) {
+                return null;
+            }
+            Node slow = head, fast = head;
+            while (fast != null) {
+                slow = slow.next;
+                if (fast.next != null) {
+                    fast = fast.next.next;
+                } else {
+                    return null;
+                }
+                //相遇后，进行第二轮
+                if (fast == slow) {
+                    Node ptr = head;
+                    while (ptr != slow) {
+                        ptr = ptr.next;
+                        slow = slow.next;
+                    }
+                    return ptr;
+                }
+            }
+            return null;
+        }
+    }
 
     /**
      *      * 第二个问题：
@@ -97,7 +127,9 @@ public class Problem_11_FindFirstIntersectNode {
     }
 
     /**
-     * 补充第二种写法，简洁的双指针
+     * 第二个问题：补充第二种写法，简洁的双指针
+     * 判断两个无环链表是否相交，相交则返回第一个公共节点，否则返回空。
+     *
      * @param headA
      * @param headB
      * @return
@@ -114,7 +146,7 @@ public class Problem_11_FindFirstIntersectNode {
     }
 
     /**
-     * 问题三：加入两个链表都有环，找到相交节点
+     * 问题三：假设两个链表都有环，找到相交节点
      * @param head1
      * @param loop1 入环点
      * @param head2

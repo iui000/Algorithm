@@ -1,16 +1,20 @@
-package GinkgoStack.P3_StackProblem;
+package GinkgoStack.P3_StackProblem.MonotonousStack;
 
 import java.util.*;
 
 /**
- * 字节笔试题
- * AC
+ * 字节笔试题10.11
+ * leetcode 84题 柱状图中最大的矩形
+ *
+ * AC，只是换了个说法和表示方式而已：
  * 数组nums,求MAX(min(nums[i...i+k-1]) * k),k为任意小于n的数。
  * 这又是一个极小极大化题目，单调栈
  */
-public class MaxValue_MinValueOfKlengthSubarrMutiK {
+public class P2_MaxValue_MinValueOfKlengthSubarrMutiK {
 
     /**
+     * 自己的解法
+     * 和LeftRightNearestLargerValue基本一样
      * 单调栈 递增
      * 以当前这个数为最小值，向左右扩张
      * 找到一个数左边和右边离自己最近的小于自己的数的下标

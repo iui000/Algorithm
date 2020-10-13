@@ -1,20 +1,26 @@
-package GinkgoStack.P3_StackProblem;
+package GinkgoStack.P3_StackProblem.MonotonousStack;
 
 import java.util.Scanner;
 import java.util.Stack;
 
 /**
  * 字节笔试题
- *
+ * 定义：
  * L[i] 表示左边第一个大于自己的数的下标；
  * R[i] 表示右边第一个大于自己的数的下标；
  *
- * 求最大的 L[i] * R[i]
+ * 求 L[i] * R[i] 的最大值
  *
- * 其实这道题很简单，单调栈（递减），可惜当时漏掉了一点细节，只A了60%左右
+ * 其实这道题很简单，单调栈（递减）
  */
-public class LeftRightNearestLargerValue {
+public class P3_LeftRightNearestLargerValue {
 
+    /**
+     * 自己的解法AC
+     * @param arr
+     * @param n
+     * @return
+     */
     public static int solution(int[] arr,int n) {
         Stack<Integer> stack = new Stack<>();
         int[] L = new int[n+1];

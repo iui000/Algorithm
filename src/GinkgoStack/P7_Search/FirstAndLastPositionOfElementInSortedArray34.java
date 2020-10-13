@@ -21,7 +21,7 @@ import java.util.Arrays;
  * 输入: nums = [5,7,7,8,8,10], target = 6
  * 输出: [-1,-1]
  */
-public class SearchRange34 {
+public class FirstAndLastPositionOfElementInSortedArray34 {
 
     // returns leftmost (or rightmost) index at which `target` should be
     // inserted in sorted array `nums` via binary search.
